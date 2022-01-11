@@ -50,7 +50,7 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: #5B2C6F;
   text-align: center;
 }
 #nav-list a:hover {
@@ -68,7 +68,7 @@ body {
   padding-bottom: 0;
 }
 #phone div { /* We Deliver */
-  color: #557c3e;
+  color: #5B2C6F;
   text-align: right;
   padding-right: 15px;
 }
